@@ -1,0 +1,10 @@
+node_modules/
+gen/
+.env
+.default-env.json
+cds.env.json
+mta_archives/
+dist/
+.cfignore
+DS_Store
+.vscode/
